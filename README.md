@@ -6,4 +6,3 @@ All API routes are called correctly and deployed site to heroku
 Also only have one push because with the help of a tutor through GWU I was able to complete the assignment with one commit
 That is why only one commit is seen 
 Thank you!
-Also, my professor Gabe Perry gave me an extension on submitting the URL deployed application as I didnt recieve my free credits to heroku yet! However, my application is usable and verifiable in my repo located within the JS. 
